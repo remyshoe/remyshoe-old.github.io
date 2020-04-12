@@ -18,8 +18,9 @@
       <div class="inner">
 
         <header>
-          <h3>gfw666.com | { page.description }</h3>
+          <h2>gfw666.com | {{ page.description }}</h2>
         </header>
+	<!--[Remy rm]>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
@@ -33,6 +34,7 @@
 	  {% endif %}
 	{% endif %}
         </section>
+        <![Remy rm]-->
         <hr>
         <section id="main_content">
           {{ content }}
