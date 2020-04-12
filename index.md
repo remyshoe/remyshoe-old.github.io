@@ -8,7 +8,7 @@
 
 ##### E
 
-[Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件查找工具 | 
+[Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件搜索工具 | 
 
 ##### G
 
