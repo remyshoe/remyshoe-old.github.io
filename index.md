@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+##### 0~9
 
-You can use the [editor on GitHub](https://github.com/remyshoe/remyshoe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[7-Zip](https://www.7-zip.org/) • [下载](https://www.7-zip.org/download.html) • 压缩/解压缩工具 | 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### A
 
-### Markdown
+[爱剪辑](http://www.ijianji.com/) • [下载](http://www.ijianji.com/medownload.htm) • 视频剪辑工具 | 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### E
 
-```markdown
-Syntax highlighted code block
+[Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件查找工具 | 
 
-# Header 1
-## Header 2
-### Header 3
+#### G
 
-- Bulleted
-- List
+[GIMP](https://www.gimp.org/) • [下载](https://www.gimp.org/downloads/) • 图像编辑工具 | 
 
-1. Numbered
-2. List
+#### N
 
-**Bold** and _Italic_ and `Code` text
+[Notepad++](https://notepad-plus-plus.org/) • [下载](https://notepad-plus-plus.org/downloads/) • 记事本工具 | 
 
-[Link](url) and ![Image](src)
-```
+#### P
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Paint.NET](https://www.getpaint.net/index.html) • [下载](https://www.getpaint.net/download.html) • 图像编辑工具 | [PuTTY](https://putty.org) • [下载](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) • 远程连接工具 | 
 
-### Jekyll Themes
+#### Q
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/remyshoe/remyshoe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Q-Dir](http://q-dir.com/) • [下载](http://www.softwareok.com/?Download=Q-Dir) • Windows多窗口工具 | 
 
-### Support or Contact
+#### X
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[XMind](https://www.xmind.cn/) • [下载](https://www.xmind.cn/download/) • 思维导图工具 | 
+
+
+
+#### 特别鸣谢
