@@ -10,6 +10,10 @@
 
 [Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件搜索工具 | 
 
+##### F
+
+[Format Factory(格式工厂)](http://www.pcfreetime.com/) • [下载](http://www.pcfreetime.com/formatfactory/CN/index.html) • 音视频剪辑工具 | 
+
 ##### G
 
 [GIMP](https://www.gimp.org/) • [下载](https://www.gimp.org/downloads/) • 图像编辑工具 | 
