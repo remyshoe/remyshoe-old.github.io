@@ -1,3 +1,4 @@
+#### 工具软件
 ##### 0~9
 
 [7-Zip](https://www.7-zip.org/) • [下载](https://www.7-zip.org/download.html) • 压缩/解压缩工具 | 
@@ -17,6 +18,10 @@
 ##### G
 
 [GIMP](https://www.gimp.org/) • [下载](https://www.gimp.org/downloads/) • 图像编辑工具 | 
+
+##### I
+
+[Inkscape](https://inkscape.org/) • [下载](https://inkscape.org/en/release) • 开源矢量作图工具 | 
 
 ##### N
 
