@@ -3,10 +3,6 @@
 
 [7-Zip](https://www.7-zip.org/) • [下载](https://www.7-zip.org/download.html) • 压缩/解压缩工具 | 
 
-##### A
-
-[爱剪辑](http://www.ijianji.com/) • [下载](http://www.ijianji.com/medownload.htm) • 视频剪辑工具 | 
-
 ##### E
 
 [Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件搜索工具 | 
