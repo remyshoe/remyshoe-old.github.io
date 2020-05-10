@@ -5,7 +5,7 @@
 
 ##### E
 
-[Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件搜索工具 | 
+[Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件搜索工具 | [EV录屏](https://www.ieway.cn/index.html) • [下载](https://www.ieway.cn/evcapture.html) • 桌面录屏工具
 
 ##### F
 
