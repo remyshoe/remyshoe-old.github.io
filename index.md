@@ -31,6 +31,10 @@
 
 [Q-Dir](http://q-dir.com/) • [下载](http://www.softwareok.com/?Download=Q-Dir) • Windows多窗口工具 | 
 
+##### V
+
+[vdhcoapp](https://github.com/mi-g/vdhcoapp) • [下载](https://github.com/mi-g/vdhcoapp/releases) • Companion application for Video DownloadHelper browser add-on | 
+
 ##### X
 
 [XMind](https://www.xmind.cn/) • [下载](https://www.xmind.cn/download/) • 思维导图工具 | 
