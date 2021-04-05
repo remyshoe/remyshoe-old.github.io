@@ -1,9 +1,4 @@
 #### 官方网站
-##### 生活缴费查询
-
-[无锡水量水费查询](http://221.6.103.134/) | [国家电网网上营业厅](http://www.95598.cn/person/as/index.shtml) |  
-[移动网上营业厅](http://www.10086.cn/index/bj/index_100_100.html) | [电信网上营业厅](http://www.189.cn/) | [联通网上营业厅](http://www.10010.com) |
-
 <br>
 #### 工具软件
 ##### 0~9
@@ -46,6 +41,11 @@
 
 [XMind](https://www.xmind.cn/) • [下载](https://www.xmind.cn/download/) • 思维导图工具 | 
 
+<br>
+##### 生活缴费
 
+[移动网上营业厅](http://www.10086.cn/index/bj/index_100_100.html) | [电信网上营业厅](http://www.189.cn/) | [联通网上营业厅](http://www.10010.com) |
+[无锡水量水费查询](http://221.6.103.134/) | 
 
+<br>
 ##### 特别鸣谢
