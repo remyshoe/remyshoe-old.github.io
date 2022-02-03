@@ -6,7 +6,7 @@
 ##### E
 
 [Everything](https://www.voidtools.com) • [下载](https://www.voidtools.com/downloads/) • 本地文件搜索工具 | [EV录屏](https://www.ieway.cn/index.html) • [下载](https://www.ieway.cn/evcapture.html) • 桌面录屏工具 
-[ezgif](https://ezgif.com/video-to-gif) • 在线视频转GIF
+[ezgif](https://ezgif.com/video-to-gif) • 在线视频转GIF | 
 
 ##### F
 
