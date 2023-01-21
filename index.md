@@ -1,5 +1,8 @@
 #### Notes
-<br>
+| Keyword <div style="width:100px"> | Contents |
+|------|------|
+| AC voltage and frequency | (1) [List of Worldwide AC Voltages and Frequencies](https://www.school-for-champions.com/science/ac_world_volt_freq_list.htm#.Y8tQrnZBw2w)  ([PDF version](https://www.oaktreeproducts.com/img/product/description/List%20of%20Worldwide%20AC%20Voltages.pdf)) <br> (2) [List of Voltages & Frequencies (Hz) Around the World](https://www.generatorsource.com/Voltages_and_Hz_by_Country.aspx) |
+| | |
 
 #### 工具官网
 [Everything](https://www.voidtools.com) • 本地文件搜索工具  
